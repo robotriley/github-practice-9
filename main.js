@@ -1,0 +1,1 @@
+const divNine=document.querySelector('#divNine')
